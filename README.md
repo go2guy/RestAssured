@@ -1,2 +1,2 @@
 # RestAssured
-Example of using RestAssured
+Examples of using RestAssured
